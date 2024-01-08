@@ -1,13 +1,13 @@
 #1.
-'''
 
-rows=int(input("Enter no. of rows:"))
-for i in range(rows):
-    for j in range(rows):
-        print("*",end=" ")
-    print()
-print()
-'''
+
+# rows=int(input("Enter no. of rows:"))
+# for i in range(rows):
+#     for j in range(rows):
+#         print("*",end=" ")
+#     print()
+# print()
+
 
 
 #2.
